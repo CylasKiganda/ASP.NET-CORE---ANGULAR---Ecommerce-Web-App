@@ -10,3 +10,6 @@ C:\Users\belo\Documents\ASP\Udemy\skinet\Infrastructure\obj\Debug\net7.0\Infrast
 C:\Users\belo\Documents\ASP\Udemy\skinet\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\belo\Documents\ASP\Udemy\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\belo\Documents\ASP\Udemy\skinet\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\belo\Documents\ASP\Udemy\skinet\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\belo\Documents\ASP\Udemy\skinet\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\belo\Documents\ASP\Udemy\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
