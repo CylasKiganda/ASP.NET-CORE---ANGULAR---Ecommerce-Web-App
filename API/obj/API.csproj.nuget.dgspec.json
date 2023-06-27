@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj": {}
+    "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj": {
+    "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj",
+        "projectPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\belo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\obj\\",
+        "outputPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj": {
+    "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\belo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +137,14 @@
         }
       }
     },
-    "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\belo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,8 +161,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj"
+              "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Core\\Core.csproj"
               }
             }
           }
