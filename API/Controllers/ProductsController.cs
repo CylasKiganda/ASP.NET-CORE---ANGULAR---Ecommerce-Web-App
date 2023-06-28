@@ -37,5 +37,10 @@ namespace API.Controllers
             return count.Count;
         }
 
+        [Route("brands")]
+        public async Task<ActionResult<IReadOnlyList<ProductBrand>>> GetProductBrands(){
+            return  Ok(await _repo.GetProductBrandsAsync());
+        }
+
     }
 }
