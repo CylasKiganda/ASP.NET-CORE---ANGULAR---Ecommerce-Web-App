@@ -5,21 +5,27 @@ using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Core.Entities;
 using Core.Interfaces;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Infrastructure.Data
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
     {
-        
-
-        Task<T> IGenericRepository<T>.GetByIdAsyncy(int id)
+        public StoreContext _context { get; }
+        public GenericRepository( StoreContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        Task<IReadOnlyList<T>> IGenericRepository<T>.ListAllAsync()
+        public async Task<T>  GetByIdAsync (int id)
         {
-            throw new NotImplementedException();
+            return await _context.Set<T>().FindAsync(id);
+        }
+
+        public async Task<IReadOnlyList<T>>  ListAllAsync()
+        {
+             return await _context.Set<T>().ToListAsync();
         }
     }
 }

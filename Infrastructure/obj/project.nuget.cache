@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vcYtPiECP+L3EautUxv1IvRnPkQqzmIeNG99QwTySoq3yIrfra3sBs5Zvne+vwXWMlh2/bB6a536iu2FQDnAw==",
+  "dgSpecHash": "hDu6mMKwZjJvvwWzXIQIDUJoLCRSrGPSAkBWK4wHhOWS20VmPNRQiT88kAiWjuLzgDuPhNYgoVSV62ZW49C8bw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\belo\\Documents\\ASP\\Udemy\\skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\belo\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
     "C:\\Users\\belo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
